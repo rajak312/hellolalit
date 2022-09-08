@@ -9,6 +9,7 @@ public class Welcome_Lalit {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome Lalit");
 		System.out.printlnI("How are you");
+		Systen.out.ptintln("Please Write your next Program");
 
 	}
 
